@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Simulador de Energía Mecánica",
+  "description": "Una aplicación interactiva para visualizar la conservación de la energía mecánica (potencial y cinética) con una bola rodando en una rampa. Los usuarios pueden ajustar la masa y la gravedad para observar los cambios en tiempo real.",
+  "requestFramePermissions": []
+}
